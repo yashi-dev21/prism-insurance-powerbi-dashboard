@@ -129,4 +129,4 @@ flowchart LR
 
 ## 👤 Author
 
-**Your Name** &nbsp;|&nbsp; [GitHub](https://github.com/yashi-dev21) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;|&nbsp; [Email](mailto:you@example.com)
+**Your Name** &nbsp;|&nbsp; [GitHub](https://github.com/yashi-dev21) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/yashika-mule-91668b248) &nbsp;|&nbsp; [Email](yashikamule219@gmail.com)
